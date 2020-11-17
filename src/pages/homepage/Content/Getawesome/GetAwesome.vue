@@ -69,7 +69,7 @@ export default {
 }
 </script>
 
-<style scoped>
+<style>
 .get-awesome-wrapper {
   padding-top: 6rem;
   display: flex;

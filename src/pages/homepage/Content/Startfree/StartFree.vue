@@ -32,7 +32,7 @@ name: "StartFree",
 }
 </script>
 
-<style scoped>
+<style>
 .start-free-wrapper {
   background-image: url("../../../../assets/images/bg_start_03.png");
   background-position: right bottom;
@@ -40,7 +40,7 @@ name: "StartFree",
   background-size: initial;
   padding-top: 10%;
   border-top: 0.5px solid lightgray;
-  min-height: 100vh;
+  min-height: 380px;
 }
 
 h2 {

@@ -23,8 +23,8 @@
 </template>
 
 <script>
-import Header from "@/pages/homepage/Header/Header";
-import Footer from "@/pages/homepage/Footer/Footer";
+import Header from "@/pages/Header/Header";
+import Footer from "@/pages/Footer/Footer";
 import Trusted from "@/pages/homepage/Content/Trusted/Trusted";
 import Features from "@/pages/homepage/Content/Features/Features";
 import SmartJackPot from "@/pages/homepage/Content/Smartjackpot/SmartJackPot";

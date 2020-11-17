@@ -40,9 +40,6 @@
           </div>
         </b-row>
       </b-container>
-      <div class="bottom-header">
-        <img style="width: 100%" alt="#" :src="image.buildDing">
-      </div>
     </div>
   </div>
 </template>
@@ -69,7 +66,7 @@ export default {
 }
 </script>
 
-<style scoped>
+<style>
 
 .left-header {
   max-width: 55%;
@@ -120,10 +117,10 @@ li.nav-item {
 }
 
 .header-wrapper {
-  background-image: url("../../../assets/images/Home-page_01.png");
+  background-image: url("../../assets/images/header_01.png");
   background-position: center bottom;
-  background-repeat: no-repeat;
-  background-size: initial;
+  background-repeat: repeat;
+  background-size: cover;
   z-index: 1;
 }
 </style>
